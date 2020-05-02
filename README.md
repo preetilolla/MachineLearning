@@ -1,2 +1,2 @@
-# MachineLearning-LinearRegression-USPopulation
+# MachineLearning-LinearRegression
 Google Colab Notebook for analyzing dataset pertaining to US Population in the 1920s and 1930s.
